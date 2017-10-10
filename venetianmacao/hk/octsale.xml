@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><content html="
+    &lt;!-- qr-promo-block ends --&gt;
+ &lt;!-- qr-promo-block start --&gt;
+        &lt;div id=&quot;qr-promo-block&quot;&gt;
+            &lt;div id=&quot;qr-promo-flag&quot;&gt;&lt;/div&gt;
+            &lt;div id=&quot;qr-promo-overlay&quot;&gt;
+            &lt;/div&gt;
+            &lt;div id=&quot;qr-promo-wrapper&quot;&gt;
+                &lt;div class=&quot;ctn-wrapper&quot;&gt;
+                    &lt;div class=&quot;pic-bg&quot;&gt;
+                        &lt;img src=&quot;https://www.venetianmacau.com/content/dam/macao/venetianmacao/master/main/home/logo/wechat-qr-code-overlay/vm-wechat-overlay-181x400_tc.jpg&quot;&gt;
+                        &lt;/img&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;txt-wrapper&quot;&gt;
+                        &lt;h1&gt;
+                    有預訂疑問？ &lt;br&gt; 請聯繫在線客服
+                        &lt;/h1&gt;
+                        &lt;div class=&quot;y-txt&quot;&gt;
+                            &lt;h2&gt;
+                              立即掃碼 
+                            &lt;/h2&gt;
+                            &lt;i&gt;
+                            &lt;/i&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img alt=&quot;qrcode&quot; class=&quot;desktop qr-code-promo&quot; src=&quot;https://www.venetianmacau.com/content/dam/macao/venetianmacao/master/main/home/logo/srm348_Queries_SRMHomePC_TC.jpg&quot;&gt;
+                        &lt;img alt=&quot;qrcode&quot; class=&quot;mobile qr-code-promo&quot; src=&quot;https://www.venetianmacau.com/content/dam/macao/venetianmacao/master/main/home/logo/srm348_Queries_SRMHomePC_TC.jpg&quot;&gt;
+                            &lt;div id=&quot;btn-qr-promo-close&quot;&gt;
+                                ✕ 關閉
+                            &lt;/div&gt;
+                        &lt;/img&gt;
+                    &lt;/img&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;!-- qr-promo-block ends --&gt;
+    &lt;!-- sale-promo-block start --&gt;
+    
+&lt;div class=&quot;white&quot; id=&quot;sale-promo-block&quot;&gt;
+    &lt;div id=&quot;sale-promo-overlay&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;clearfix&quot; id=&quot;sale-promo-wrapper&quot;&gt;
+        &lt;div class=&quot;btn-close&quot;&gt;
+        &lt;/div&gt;
+        &lt;label class=&quot;headline clearfix desktop&quot;&gt;
+            &lt;i&gt;
+                澳門星級熱賣
+            &lt;/i&gt;
+        &lt;/label&gt;
+        &lt;div class=&quot;hr-line desktop&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;img-block lf&quot;&gt;
+            &lt;img src=&quot;/content/dam/macau/hotels/vm/vm-deluxe-royale-500x340.jpg&quot;&gt;
+            &lt;/img&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;txt lf&quot;&gt;
+            &lt;label class=&quot;headline mobile&quot;&gt;
+                &lt;i&gt;
+                     澳門星級熱賣
+                &lt;/i&gt;
+            &lt;/label&gt;
+            &lt;label class=&quot;h2&quot;&gt;
+              澳門威尼斯人&lt;br/&gt;客房只需 
+                &lt;i&gt;
+                    港幣1,098++ 起
+                &lt;/i&gt;
+            &lt;/label&gt;
+			&lt;a class=&quot;btn-dtl&quot; href=&quot;https://sale.venetianmacau.com/tc&quot; target=&quot;_blank&quot;&gt;
+            更多詳情
+            &lt;/a&gt;
+            &lt;label class=&quot;h3&quot;&gt;
+                2017年10月20日前預訂
+            &lt;/label&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+    &lt;!-- sale-promo-block ends --&gt;
+&lt;!-- promo-block ends --&gt;
+" jcr:baseVersion="ada6b387-0f08-47c2-8425-2d7823894461"></content>
