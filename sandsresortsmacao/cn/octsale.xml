@@ -58,10 +58,11 @@
                 &lt;/i&gt;
             &lt;/label&gt;
             &lt;label class=&quot;h2&quot;&gt;
-            &lt;br/&gt;客房仅需 
+            &lt;p&gt; &lt;/p&gt;客房仅需 
                 &lt;i&gt;
                     港币698++ 起
                 &lt;/i&gt;
+	 &lt;p&gt; &lt;/p&gt;
             &lt;/label&gt;
 			&lt;a class=&quot;btn-dtl&quot; href=&quot;https://sale.sandsresortsmacao.com/cn&quot; target=&quot;_blank&quot;&gt;
             更多详情
