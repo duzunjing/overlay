@@ -58,10 +58,11 @@
                 &lt;/i&gt;
             &lt;/label&gt;
             &lt;label class=&quot;h2&quot;&gt;
-               &lt;br/&gt;Rooms from
+               &lt;p&gt; &lt;/p&gt;Rooms from
                 &lt;i&gt;
                     HKD698++
                 &lt;/i&gt;
+				 &lt;p&gt; &lt;/p&gt;
             &lt;/label&gt;
 			&lt;a class=&quot;btn-dtl&quot; href=&quot;https://sale.sandscotaicentral.com/en&quot; target=&quot;_blank&quot;&gt;
                 SEE DETAILS
